@@ -1,6 +1,6 @@
 # "Hey! ¿Qué vemos?"
 
-++![HeyQueVemos io](https://github.com/LexisR/HeyQueVemos/blob/master/assets/images/principal.png?raw=true)
+![HeyQueVemos io](https://github.com/LexisR/HeyQueVemos/blob/master/assets/images/principal.png?raw=true)
 
 
 ## Sobre el Producto:
