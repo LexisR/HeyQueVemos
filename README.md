@@ -7,7 +7,7 @@
 
 ### Idea (Concepto) de Producto
 
-Nuestro producto **"Hey!, que vemos?"** surge como una aplicación que permite la creación de experiencias para personas amantes de las películas y las actividades sociales.
+Nuestro producto surge como una aplicación que permite la creación de experiencias para personas amantes de las películas y las actividades sociales.
 
 ### ¿Cómo se gestó la idea?
 
