@@ -50,4 +50,4 @@ Esperamos que para el plazo final, presentar un proyecto lo bastante completo co
 
 ## Vista Previa de la App:
 
-[Hey! QuéVemos?](https://github.com/LexisR/HeyQueVemos)
+[HeyQuéVemos](https://github.com/LexisR/HeyQueVemos)
